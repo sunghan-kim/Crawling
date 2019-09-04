@@ -1,0 +1,1573 @@
+[INFO  - 2019-09-04T12:34:40.627Z] GhostDriver - Main - running on port 1632
+[INFO  - 2019-09-04T12:34:44.834Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2019-09-04T12:34:44.834Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.customHeaders:  - {}
+[INFO  - 2019-09-04T12:34:44.834Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2019-09-04T12:34:44.835Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5ffc08d0-cf10-11e9-aff8-a1f47c8ce505
+[ERROR - 2019-09-04T12:34:48.132Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:48.133Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:48.823Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:48.823Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:49.548Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:49.548Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:56.955Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:56.955Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:58.096Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:58.096Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:59.011Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:34:59.012Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:07.373Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:07.373Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:08.680Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:08.680Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:09.806Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:09.806Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:18.730Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:18.730Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:19.825Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:19.825Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:28.114Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:28.115Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:29.239Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:29.239Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:32.018Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:32.018Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:36.572Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:36.572Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:37.257Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:37.257Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:38.333Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:38.333Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:39.089Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:39.089Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:40.454Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:40.454Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:49.017Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:49.017Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:49.695Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:49.695Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:58.409Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:58.409Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:59.616Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:35:59.616Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:09.295Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:09.295Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:17.374Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:17.374Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:18.428Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:18.428Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:19.439Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:19.439Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:29.454Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:29.454Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:39.694Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:39.694Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:41.235Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:41.235Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:47.154Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:47.154Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:48.361Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:48.361Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:49.502Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:49.502Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:53.026Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:53.026Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:56.999Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:56.999Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:58.296Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:58.296Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:59.730Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:36:59.730Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:05.132Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:05.133Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:05.834Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:05.835Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:07.345Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:07.345Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:08.828Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:08.828Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:20.600Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:20.600Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:27.323Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:27.323Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:28.676Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:28.676Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:29.998Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:29.998Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:33.423Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:33.423Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:37.099Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:37.099Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:38.536Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:38.536Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:39.967Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:39.967Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:47.557Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:47.558Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:48.942Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:48.942Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:50.634Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:37:50.634Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:08.167Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:08.167Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:09.283Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:09.283Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:13.437Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:13.437Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:16.275Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:16.275Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:17.111Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:17.111Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:18.630Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:18.631Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:20.120Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:20.120Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:26.894Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:26.894Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:28.241Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:28.241Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:29.546Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:29.546Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:34.561Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:34.561Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:38.661Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:38.661Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:39.305Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:39.305Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:42.654Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:42.655Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:47.234Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:47.234Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:48.831Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:48.831Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:50.873Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:50.873Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:57.833Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:57.834Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:59.513Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:38:59.514Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:03.332Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:03.332Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:07.768Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:07.768Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:09.191Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:09.191Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:19.126Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:19.126Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:20.602Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:20.602Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:27.272Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:27.272Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:28.539Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:28.539Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:29.747Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:29.747Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:35.820Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:35.820Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:37.168Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:37.169Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:38.437Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:38.437Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:39.700Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:39.701Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-09-04T12:39:40.619Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-09-04T12:39:44.853Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:44.853Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:45.719Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:45.719Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:47.988Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:47.988Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:49.236Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:49.236Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:51.941Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:51.941Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:58.835Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:39:58.835Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:00.285Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:00.285Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:02.069Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:02.069Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:07.901Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:07.901Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:09.391Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:09.391Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:11.523Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:11.524Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:13.023Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:13.024Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:16.865Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:16.865Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:18.050Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:18.050Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:19.474Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:19.475Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:20.913Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:20.914Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:28.034Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:28.034Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:29.316Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:29.317Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:38.603Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:38.603Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:39.985Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:39.986Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:56.540Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:56.540Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:58.057Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:58.057Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:59.484Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:40:59.484Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:00.787Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:00.787Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:07.732Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:07.733Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:08.937Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:08.937Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:10.230Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:10.230Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:17.471Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:17.471Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:18.196Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:18.196Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:19.464Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:19.465Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:21.030Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:21.030Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:27.073Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:27.073Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:28.354Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:28.355Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:29.553Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:29.553Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:31.431Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:31.431Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:36.893Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:36.893Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:38.207Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:38.207Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:39.498Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:39.498Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:41.142Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:41.142Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:45.764Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:45.764Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:46.996Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:46.996Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:48.186Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:48.186Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:49.435Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:49.435Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:58.626Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:41:58.626Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:00.136Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:00.136Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:01.997Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:01.997Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:08.583Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:08.583Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:09.934Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:09.934Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:19.320Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:19.321Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:40.018Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:40.019Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:44.757Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:44.757Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:47.831Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:47.831Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:49.205Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:49.205Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:51.653Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:51.653Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:52.428Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:52.428Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:59.095Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:42:59.095Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:00.543Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:00.543Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:07.419Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:07.420Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:08.859Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:08.859Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:10.239Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:10.239Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:12.483Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:12.483Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:17.202Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:17.203Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:18.561Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:18.561Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:19.929Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:19.929Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:30.341Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:30.342Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:37.835Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:37.835Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:38.670Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:38.670Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:39.978Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:39.978Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:42.684Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:42.684Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:47.736Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:47.736Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:49.126Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:49.126Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:50.597Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:43:50.597Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:20.366Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:20.367Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:25.979Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:25.979Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:27.442Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:27.442Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:28.759Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:28.759Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:30.063Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:30.063Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:39.191Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:39.191Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-09-04T12:44:40.697Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2019-09-04T12:44:40.774Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:40.774Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:47.895Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:47.895Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:49.338Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:49.339Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:52.162Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:52.162Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:56.803Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:56.803Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:58.158Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:58.159Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:59.595Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:44:59.595Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:10.696Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:10.696Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:18.468Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:18.468Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:19.876Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:19.876Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:21.196Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:21.196Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:26.618Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:26.618Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:27.964Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:27.965Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:29.304Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:29.304Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:30.560Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:30.560Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:31.952Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:31.952Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:37.515Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:37.515Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:38.993Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:38.993Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:40.297Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:40.297Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:43.299Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:43.299Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:44.867Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:44.868Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:47.342Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:47.342Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:48.582Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:48.582Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:49.840Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:49.840Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:51.263Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:51.263Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:55.378Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:55.379Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:56.990Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:56.991Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:58.345Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:45:58.345Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:00.116Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:00.116Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:01.719Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:01.719Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:07.327Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:07.327Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:08.750Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:08.750Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:10.026Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:10.026Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:11.942Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:11.942Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:18.841Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:18.841Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:20.230Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:20.231Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:24.188Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:24.188Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:27.366Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:27.366Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:28.800Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:28.800Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:30.117Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:30.117Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:37.568Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:37.568Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:38.895Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:38.895Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:40.323Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:40.323Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:48.976Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:48.976Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:50.615Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:50.616Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:52.436Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:46:52.436Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:00.204Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:00.204Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:07.533Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:07.533Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:08.940Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:08.940Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:10.363Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:10.363Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:16.137Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:16.137Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:17.493Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:17.493Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:28.241Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:28.241Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:29.783Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:29.783Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:31.969Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:31.969Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:38.121Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:38.121Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:39.691Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:39.692Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:41.249Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:41.249Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:48.290Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:48.290Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:49.681Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:49.681Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:51.283Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - msg: Error retrieving login status, fetch cancelled.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2019-09-04T12:47:51.283Z] Session [5ffc08d0-cf10-11e9-aff8-a1f47c8ce505] - page.onError - stack:
+  b (https://connect.facebook.net/en_US/sdk.js?hash=f53cdf67173f9274dcaceabe38795e1c:52)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2019-09-04T12:49:40.660Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T12:54:40.666Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T12:59:40.666Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:04:40.678Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:09:40.679Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:14:40.682Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:19:40.685Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:24:40.695Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:29:40.695Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:34:40.696Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:39:40.709Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-09-04T13:44:40.712Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
